@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MegaDojo Sofia</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="code_with_me">Учи с мен!</string>
+    <string name="kids4digieu">#kids4digiEU</string>
+    <string name="mega_dojo_sofia_1_0">Mega Dojo Sofia 1.0</string>
+</resources>
